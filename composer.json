@@ -3,7 +3,7 @@
     "description":          "Value objects common to most tabletop gaming systems",
     "minimum-stability":    "dev",
     "license":              "MIT",
-    "homepage":             "https://github.com/tabletop-wargaming/value-objects",
+    "homepage":             "https://github.com/tabletop-wargaming/common",
     "type":                 "library",
     "authors": [
         {
