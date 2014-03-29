@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: bhanlon
- * Date: 27/03/2014
- * Time: 11:13
- */
+
 namespace TabletopWargaming\Common\Interfaces;
 
 interface Comparable
